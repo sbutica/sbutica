@@ -1,5 +1,5 @@
 # Hello, I'm Savannah
-<a href="https://www.linkedin.cn/savannah-b-4384a4338/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/savannah-b-4384a4338"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a student who is seeking experience in cyber in general.
